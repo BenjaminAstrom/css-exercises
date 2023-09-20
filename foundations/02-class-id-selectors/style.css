@@ -1,9 +1,9 @@
-p {
+.odd {
     font-family: Verdana, DejaVu Sans, sans-serif;
     background-color: rgb(255, 192, 203);
 }
 
-.element2 {
+#element2 {
     color: #0000ff;
     font-size: 36px;
 }
@@ -12,7 +12,7 @@ p {
     font-size: 24px;
 }
 
-.element4 {
-    background-color: hsl(120, 100%, 25%);
+#element4 {
+    background-color: hsl(120, 40%, 76%);
     font-weight: bold;
 }
